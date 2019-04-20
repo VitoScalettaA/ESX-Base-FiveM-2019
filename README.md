@@ -13,9 +13,4 @@ Pour instaler le serveur :
 
 4: Tout en bas de Server.cfg, aller sur le site pour créer votre clé de licence FiveM et la mettre entre les " " .
 
-5: Verifier que visual ++ est bien installé. 
-
-6: Lancer le serveur et tout devrais bien aller.
-
-Quand vous ajoutez des scripts ne pas oublier de les renseigner dans le server.cfg sous 'start nomdelaressource' et exectuter l'SQL si il y en a dans la ressource. 
-
+5: Lancer le serveur et tout devrais bien aller.
