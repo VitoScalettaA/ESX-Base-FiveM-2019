@@ -5,12 +5,12 @@ Utilisez mariadb et heidi sql pour votre base de donnée.
 
 Pour instaler le serveur :
 
-Instaler mariadb (heidi s'installe automatiquement) 
-Dans les fichiers server il y a un document avec la base en sql. La charger dans heidi sql.
-Aller dans Server.cfg dans les fichiers server, remplaser MOTDEPASSE par le mot de passe a 4 chiffre que vous avez créer sur heidiSQL.
-Tout en bas de Server.cfg, aller sur le site pour créer votre clé de licence FiveM et la mettre entre les " " .
-Vérifier que visual ++ est bien installé. 
-Lancer le serveur et tout devrais bien aller.
+1: Instaler mariadb (heidi s'installe automatiquement) 
+2: Dans les fichiers server il y a un document avec la base en sql. La charger dans heidi sql.
+3: Aller dans Server.cfg dans les fichiers server, remplaser MOTDEPASSE par le mot de passe a 4 chiffre que vous avez créer sur heidiSQL.
+4: Tout en bas de Server.cfg, aller sur le site pour créer votre clé de licence FiveM et la mettre entre les " " .
+5: Verifier que visual ++ est bien installé. 
+6: Lancer le serveur et tout devrais bien aller.
 
 Quand vous ajoutez des scripts ne pas oublier de les renseigner dans le server.cfg sous 'start nomdelaressource' et exectuter l'SQL si il y en a dans la ressource. 
 
